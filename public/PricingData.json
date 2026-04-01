@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1,
+    "name": "Basic",
+    "price": 20,
+    "description": "Perfect for beginners starting their fitness journey.",
+    "features": [
+      "Access to gym equipment",
+      "Locker room access",
+      "1 free fitness assessment",
+      "Open gym hours (8am - 8pm)",
+      "Basic support",
+      "Warm-up & stretching area",
+      "Water station access",
+      "Beginner workout guide"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Standard",
+    "price": 40,
+    "description": "Best for regular users who want more flexibility.",
+    "features": [
+      "24/7 gym access",
+      "All equipment access",
+      "Group classes (Yoga, Zumba)",
+      "2 personal training sessions/month",
+      "Locker + shower access",
+      "Diet chart (basic)",
+      "Cardio & strength programs",
+      "Mobile app workout tracking",
+      "Guest pass (1/month)"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Premium",
+    "price": 70,
+    "description": "Advanced plan for serious fitness enthusiasts.",
+    "features": [
+      "24/7 VIP access",
+      "Unlimited group classes",
+      "Weekly personal trainer",
+      "Custom diet plan",
+      "Sauna & steam room",
+      "Priority support",
+      "Body composition analysis",
+      "Recovery & stretching sessions",
+      "Supplement guidance",
+      "Exclusive fitness workshops"
+    ]
+  }
+]
