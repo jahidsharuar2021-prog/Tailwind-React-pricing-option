@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Basic",
-    "price": 20,
+    "price": 20 ,
     "description": "Perfect for beginners starting their fitness journey.",
     "features": [
       "Access to gym equipment",
@@ -19,6 +19,7 @@
     "id": 2,
     "name": "Standard",
     "price": 40,
+    "popular":true,
     "description": "Best for regular users who want more flexibility.",
     "features": [
       "24/7 gym access",
