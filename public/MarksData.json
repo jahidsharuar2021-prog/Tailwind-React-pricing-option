@@ -1,0 +1,29 @@
+[
+  {
+    "student_id": 1,
+    "name": "Jahid",
+    "marks":{
+    "physics": 85,
+    "chemistry": 78,
+    "math": 92
+    }
+  },
+  {
+    "student_id": 2,
+    "name": "Rahim",
+    "marks":{
+    "physics": 75,
+    "chemistry": 82,
+    "math": 88
+    }
+  },
+  {
+    "student_id": 3,
+    "name": "Karim",
+    "marks":{
+    "physics": 90,
+    "chemistry": 85,
+    "math": 95
+    }
+  }
+]
